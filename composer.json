@@ -17,7 +17,15 @@
         "php": ">=5.4.0",
         "yiisoft/yii2": "~2.0.14",
         "yiisoft/yii2-bootstrap": "~2.0.0",
-        "yiisoft/yii2-swiftmailer": "~2.0.0"
+        "yiisoft/yii2-swiftmailer": "~2.0.0",
+        "yiisoft/yii2-imagine": "~2.1.0",
+        "aws/aws-sdk-php": "*",
+        "yurkinx/yii2-image": "*",
+        "npm-asset/justifiedGallery": "*",
+        "npm-asset/dropzone": "*",
+        "bower-asset/jquery-visible": "*",
+        "league/flysystem-sftp": "*",
+        "2amigos/yii2-flysystem-component": "^1.0"
     },
     "require-dev": {
         "yiisoft/yii2-debug": "~2.0.0",
